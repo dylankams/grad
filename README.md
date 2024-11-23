@@ -20,8 +20,3 @@ Ouvrir le lien [http://localhost:3000](http://localhost:3000) dans votre navigat
 La page se rechargera lorsque vous apporterez des modifications.\
 Vous pouvez également voir des erreurs dans la console.
 
-
-### Url de connexion à l'epace d'administration :
-[http://localhost:3000/login](http://localhost:3000/login)
-email : loic.kameni@estiam.com
-password : dylan
