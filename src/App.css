@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+/* Code pour adapté le fixed du header sutr toutes les pages */
+
+body {
+  padding-top: 90px; /* Adjust this value based on the height of your fixed header */
+}
+
+.content {
+  margin-top: 100px;
+}
